@@ -407,7 +407,8 @@ SIDEBAR + RIGHT COLUMN
   color: #555555;
 }
 .content-column-content p,
-.content-column-content li {
+.content-column-content li,
+figcaption {
   color: #999999;
 }
 .content-column-content ul li {
