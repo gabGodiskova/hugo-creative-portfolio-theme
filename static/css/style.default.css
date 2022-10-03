@@ -407,10 +407,15 @@ SIDEBAR + RIGHT COLUMN
   color: #555555;
 }
 .content-column-content p,
-.content-column-content li,
-figcaption {
+.content-column-content li {
   color: #999999;
 }
+
+figcaption {
+  color: #999999;
+  font-size: 80%;
+}
+
 .content-column-content ul li {
   list-style-type: none;
 }
